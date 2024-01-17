@@ -1,0 +1,28 @@
+html {
+    border: 2px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Verdana;
+
+}
+
+h4 {
+    border-bottom: 1px solid black;
+}
+
+.heading {
+    text-align: center;
+}
+
+p,
+.bullet-points {
+    font-size: 13px;
+
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
